@@ -1,0 +1,52 @@
+body{
+    background-image: url('../img/bg.jpg');
+    background-repeat: inherit;
+    background-size: 100%;
+    background-color: olivedrab;
+    font-family: 'Times New Roman', Times, serif;
+    color: darksalmon;
+}
+
+a:hover{
+    color: cornflowerblue;
+    letter-spacing: 10px;
+    font-size: large;
+}
+
+hr{
+    color: aliceblue;
+}
+
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 150%;
+    background-color: wheat;
+    padding: 20px;
+}
+
+
+#Spring{
+    color: olivedrab;
+}
+
+#Summer{
+    color: cornflowerblue;
+}
+
+#Autumn{
+    color: peru;
+}
+
+#Winter{
+    color: cornsilk;
+}
+
+#Main{
+    color: antiquewhite;
+}
+
+ol{
+    color: lightsalmon;
+}
+
